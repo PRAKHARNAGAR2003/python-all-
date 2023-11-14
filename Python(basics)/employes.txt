@@ -1,0 +1,6 @@
+jim-> Salesman
+dwight->Salesman
+pam->Receptionist
+Michale->Manager
+Oscar->Accountant
+Prakhar -> Owner
